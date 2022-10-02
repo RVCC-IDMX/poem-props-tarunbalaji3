@@ -1,0 +1,9 @@
+@use "../abstracts/mixins" as mixins;
+
+body {
+  @include mixins.flex-center-column;
+  width: min(100% - 2rem, 60ch);
+  margin-inline: auto;
+  font-family: var(--font-serif);
+  padding-block: 1rem;
+}

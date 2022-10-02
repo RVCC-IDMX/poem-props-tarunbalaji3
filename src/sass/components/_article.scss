@@ -1,0 +1,6 @@
+@use "../abstracts/mixins" as mixins;
+
+.poem {
+  margin-inline: auto;
+  padding-block: var(--size-3);
+}

@@ -1,0 +1,15 @@
+.hero {
+    background: var(--gradient-1);
+  }
+  
+  @media (prefers-color-scheme: light) {
+      .hero {
+          background: var(--gradient-3);
+        }
+  }
+
+  .hero__title {
+    padding-inline: 1rem; 
+  }
+
+  
