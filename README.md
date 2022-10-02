@@ -1,5 +1,7 @@
 # IDMX 11ty Sass Starter
 
+## Poem Props - Having A Coke With You by Frank O'Hara
+
 The set of development scripts in this starter is configured to watch and compile a simple Sass structure using 11ty.
 
 The code is located in the `src` folder and the page is created in the `public` folder.
@@ -29,3 +31,7 @@ Use this as the "Publish command" if needed by hosting services such as Netlify.
 ## Resources
 
 <small>The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.com/5t3ph)</small>
+
+[Poem by Frank O'Hara](https://allpoetry.com/Having-A-Coke-With-You)
+
+[Image by Michael Fenton on Unsplash](https://unsplash.com/photos/0ZQ8vojHNuc?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
